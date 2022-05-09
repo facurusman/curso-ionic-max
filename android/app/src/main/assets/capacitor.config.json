@@ -1,0 +1,6 @@
+{
+	"appId": "com.ionic-course-angular",
+	"appName": "ionic-course",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

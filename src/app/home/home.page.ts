@@ -9,4 +9,9 @@ export class HomePage {
 
   constructor() {}
 
+
+  hoaa(){
+    console.log('hola');
+
+  }
 }
